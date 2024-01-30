@@ -1,5 +1,9 @@
 # Other stuff
 
+### https://github.com/Wilenty/7zOverlay
+The 7zOverlay.dll is designed to use original 7z.dll without use of the complicated code and it uses the same parameters as the 7z.exe file.
+
+---
 ### https://github.com/Wilenty/VisualC-redist-installers-Demos
 This program works from Windows XP to W11. It's helpful if the VC++ don't want uninstall (1603). You can also update current VC++ version to the latest one. With this tool you can manage any version of VC++. Full command-line is available, as well as predefined parameters.
 
