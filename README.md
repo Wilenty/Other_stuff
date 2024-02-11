@@ -20,8 +20,14 @@ This program works from Windows XP to W11. It's helpful if the VC++ don't want u
 
 ---
 ### https://github.com/Wilenty/ColoredText
+[![Latest Version](https://img.shields.io/github/release/Wilenty/ColoredText.svg)](https://github.com/Wilenty/ColoredText/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/ColoredText/total.svg)](https://github.com/Wilenty/ColoredText/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/ColoredText/latest/total.svg)](https://github.com/Wilenty/ColoredText/releases/latest)
 Small program to write colored text in the console, please check the scripts I have prepared. Bonus: better random function with range.
 
 ---
 ### https://github.com/Wilenty/Collection-of-Windows-Tweaking-Scripts-by-mdl052020
+[![Latest Version](https://img.shields.io/github/release/Wilenty/Collection-of-Windows-Tweaking-Scripts-by-mdl052020.svg)](https://github.com/Wilenty/Collection-of-Windows-Tweaking-Scripts-by-mdl052020/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/Collection-of-Windows-Tweaking-Scripts-by-mdl052020/total.svg)](https://github.com/Wilenty/Collection-of-Windows-Tweaking-Scripts-by-mdl052020/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/Collection-of-Windows-Tweaking-Scripts-by-mdl052020/latest/total.svg)](https://github.com/Wilenty/Collection-of-Windows-Tweaking-Scripts-by-mdl052020/releases/latest)
 A set of "Tweaking Scripts" taken (Prior to Removal - at Author's request) from https://forums.mydigitallife.net/threads/82116 and with permission shared here. Feel free to Download and Use - At Your Own Risk!!! The assumption here, is that you know what you are doing. The responsibility lies (in its entirety) with you (the User)! See ReadME.
